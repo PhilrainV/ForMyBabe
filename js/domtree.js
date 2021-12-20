@@ -30,7 +30,7 @@ for( var i = 0; i < quantity; i++ ) {
 		elemenHeight = 40;
 	
 	var elementhead=document.createElement( 'img' );
-	elementhead.src="./js/无背景.png";
+	elementhead.src="Y:/小玩意/DOMTree-master/js/无背景.png";
 	elementhead.style.position="absolute";
 	elementhead.style.top="-170px";
 	elementhead.style.left="250px";
@@ -38,7 +38,7 @@ for( var i = 0; i < quantity; i++ ) {
 	elementhead.style.height = '200px';
 
 	var elementroot=document.createElement( 'img' );
-	elementroot.src="./js/树干.png";
+	elementroot.src="Y:/小玩意/DOMTree-master/js/树干.png";
 	elementroot.style.position="absolute";
 	elementroot.style.top="960px";
 	elementroot.style.left="300px";
